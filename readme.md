@@ -51,7 +51,7 @@ Timeout in milliseconds after which a request is considered failed. Default: `50
 
 ## Related
 
-- [tor-detect.now](https://github.com/k4m4/tor-detect.now) - A minimal service to check whether a visitor is running behing Tor (**coming soon**).
+- [tor-detect.now](https://github.com/k4m4/tor-detect.now) - A minimal service to check whether a visitor is running behing Tor.
 
 ## License
 
