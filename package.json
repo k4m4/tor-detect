@@ -1,0 +1,39 @@
+{
+  "name": "tor-detect",
+  "version": "1.0.0",
+  "description": "Detect whether an IP address belongs to a Tor exit node.",
+  "license": "MIT",
+  "repository": "k4m4/tor-detect",
+  "author": {
+    "name": "Nikolaos Kamarinakis",
+    "url": "https://nikolaskama.me"
+  },
+  "engines": {
+    "node": ">=4"
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "ava"
+  },
+  "keywords": [
+    "tor",
+    "detect"
+  ],
+  "files": [
+    "index.js",
+    "fetch-ips.js",
+    "ips.json"
+  ],
+  "devDependencies": {
+    "ava": "^0.25.0"
+  },
+  "dependencies": {
+    "arrify": "^1.0.1",
+    "fs": "0.0.1-security",
+    "ip-regex": "^3.0.0",
+    "node-fetch": "^2.1.2",
+    "p-any": "^1.1.0",
+    "p-timeout": "^2.0.1",
+    "path": "^0.12.7"
+  }
+}
