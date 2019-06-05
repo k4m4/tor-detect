@@ -9,7 +9,7 @@
     "url": "https://nikolaskama.me"
   },
   "engines": {
-    "node": ">=6"
+    "node": ">=9"
   },
   "main": "index.js",
   "scripts": {
