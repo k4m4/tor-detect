@@ -25,13 +25,13 @@
     "ips.json"
   ],
   "devDependencies": {
-    "ava": "^0.25.0"
+    "ava": "^2.0.0"
   },
   "dependencies": {
     "arrify": "^1.0.1",
     "fs": "0.0.1-security",
     "ip-regex": "^3.0.0",
-    "node-fetch": "^2.3.0",
+    "node-fetch": "^2.6.0",
     "p-any": "^1.1.0",
     "p-timeout": "^2.0.1",
     "path": "^0.12.7"
