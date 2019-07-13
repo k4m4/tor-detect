@@ -1,6 +1,6 @@
 {
   "name": "tor-detect",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "Detect whether an IP address belongs to a Tor exit node.",
   "license": "MIT",
   "repository": "k4m4/tor-detect",
