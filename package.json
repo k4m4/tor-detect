@@ -8,6 +8,9 @@
     "name": "Nikolaos Kamarinakis",
     "url": "https://nikolaskama.me"
   },
+  "ava": {
+    "babel": true
+  },
   "engines": {
     "node": ">=9"
   },
@@ -25,7 +28,8 @@
     "ips.json"
   ],
   "devDependencies": {
-    "ava": "^2.0.0"
+    "@ava/babel": "^1.0.1",
+    "ava": "^3.5.2"
   },
   "dependencies": {
     "arrify": "^1.0.1",
